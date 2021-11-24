@@ -6,11 +6,11 @@ El proyecto ya esta pre-compilado por lo que para correrlo solo es necesario eje
 Nota: El proyecto tiene compatibilidad con mando y la opcion para habilitarlo se encuentra en el menu de pausa
 
 Controles
-ASWD: movimento del personaje
-Mouse: movimiento del puntero
-Mouse click izquirdo: disparo
-Mouse click derecho: dash
-E: soltar objeto actual
+- ASWD: movimento del personaje
+- Mouse: movimiento del puntero
+- Mouse click izquirdo: disparo
+- Mouse click derecho: dash
+- E: soltar objeto actual
 
 
 ![1](https://github.com/challardo/ColorsBuild/blob/main/screenshots/Screenshot%20(1).png)
