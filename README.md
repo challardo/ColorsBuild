@@ -1,6 +1,7 @@
 # ColorsBuild
 Proyecto hecho en unity
 
+El proyecto ya esta pre-compilado por lo que para correrlo solo es necesario ejecutar el archivo "Colors.exe"
 
 ![1](https://github.com/challardo/ColorsBuild/blob/main/screenshots/Screenshot%20(1).png)
 
