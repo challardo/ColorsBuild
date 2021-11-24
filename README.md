@@ -11,7 +11,7 @@ Controles
 - Mouse click izquirdo: disparo
 - Mouse click derecho: dash
 - E: soltar objeto actual
-
+- ESC: pausa
 
 ![1](https://github.com/challardo/ColorsBuild/blob/main/screenshots/Screenshot%20(1).png)
 
